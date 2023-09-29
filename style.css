@@ -24,12 +24,6 @@ body {
   color: white;  
 }  
 
-a:link {
-  color: green;
-  background-color: transparent;
-  text-decoration: none;
-}
-
 a:visited {
   color: pink;
   background-color: transparent;
@@ -43,7 +37,7 @@ a:hover {
 }
 
 a:active {
-  color: yellow;
+  color: white;
   background-color: transparent;
   text-decoration: underline;
 }
