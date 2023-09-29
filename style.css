@@ -19,6 +19,11 @@ body {
   color: white;  
 }  
 
+.fa-instagram {  
+  background: #125688;  
+  color: white;  
+}  
+
 a:link {
   color: green;
   background-color: transparent;
